@@ -1,14 +1,22 @@
+# svelte app
+
+App para gravar audio
+---
+
+
+Inicializando a aplicação
+```
+npm install
+npm run dev
+```
+
+Desafio proposto durante o cuso de Desenvolvedor Front-End na [IGTI](https://www.igti.com.br/).
 
 ---
 
-# svelte app
-
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+Modelo de aplicativo para [Svelte](https://svelte.dev). 
 
 
 
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
+ 
 
